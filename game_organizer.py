@@ -18,3 +18,4 @@ game = {
         'Review': '1 - 5'
 }
 print(game)
+#TODO: Try adding a game to this list.
